@@ -1,0 +1,1 @@
+# This file must be empty to store the last_seen_id of the user. 
